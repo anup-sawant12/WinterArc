@@ -52,7 +52,7 @@ export function TopHeader({
         >
           <Zap className="w-4 h-4 fill-black" />
           <span className="hidden xs:inline">WHAT SHOULD I DO NOW?</span>
-          <span className="xs:hidden">NEXT TASK</span>
+          <span className="xs:hidden"></span>
         </button>
       </div>
     </header>

@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.2.0",
     "autoprefixer": "^10.6.1",
     "lucide-react": "^1.16.0",
     "postcss": "^8.5.28",
